@@ -1,6 +1,6 @@
 /*
- * thehub-deplyoment
- * https://github.com/cyb-ashishku/thehub-deplyoment
+ * thehub-deploy
+ * https://github.com/cyb-ashishku/thehub-deploy
  *
  * Copyright (c) 2015 Ashish Kumar
  * Licensed under the MIT license.
